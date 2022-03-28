@@ -31,7 +31,7 @@ The code resides in a private repository where only trusted developers have acce
 
 ## Which coding language do you use?
 
-The bot is completly written in [Go](https://go.dev)
+The bot is completly written in [Go](https://go.dev).
 
 ## Do you use any open source code for the tradingbot?
 

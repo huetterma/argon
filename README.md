@@ -1,6 +1,6 @@
 # Planet Laser Crypto Tradingbot
 
-Welcome to Planet Laser where traders and coders work together to create a crypto tradingbot everybody can benefit from at no cost.
+Welcome to Planet Laser where traders and coders work together to create a crypto tradingbot everybody can benefit from for free.
 
 The community develops new trading strategies, refer to existing trading strategies or simply share their ideas which may be implemented into the tradingbot.
 
@@ -8,13 +8,9 @@ Make sure to spread the word about this project - a large community mostly have 
 
 ## How it works
 
-The bot is an intelligent signal service based on technical analysis.
+The bot is an intelligent signal service based on technical analysis. Rather than doing the trading for you the bot notifies you via different channels about potential trading opportunities. This includes sell, buy and close events for various cryptocurrencies.
 
-Rather than doing the trading for you the bot notifies you via different channels about potential trading opportunities.
-
-This includes sell, buy and close events for various cryptocurrencies. It is completly up to you if you follow the trade suggestions of the bot.
-
-Not financial advice.
+It is completly up to you if you follow the trade suggestions of the bot. Not financial advice.
 
 ## Supported notification channels
 
