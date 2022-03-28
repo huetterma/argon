@@ -1,6 +1,7 @@
 # Trading strategies
 
 Overview of actively analysed trading strategies.
+
 Everything listed on this side will result in a notfication if the technical analysis of the strategy says that there is a trade opportunity for potential profit.
 
 ### [MomentumTrend](MomentumTrend.md) by developers
@@ -36,4 +37,4 @@ List of cryptocurrency pair and candle resolution combinations scheduled for tec
   resolution: 1h
 ```
 
-### Your trade strategy by <name> + <social-link>
+### Your trade strategy by your name + your social-link
