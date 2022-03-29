@@ -11,7 +11,7 @@
 
 There are two ways for you to suggest a strategy:
 
-- Create a [GitHub issue]() with a detailed explanation of your strategy
+- Create a [GitHub issue](https://github.com/porqueoutai/crypto-tradingbot/issues) with a detailed explanation of your strategy
 - Join the [Discord server](README.md) and discuss your strategy there
 
 ## Why should I share my trading strategy?
@@ -43,7 +43,6 @@ List of non standard libaries we are using:
 - [Discord handling](https://github.com/bwmarrin/discordgo)
 - [Logging](https://github.com/rs/zerolog)
 - [CLI - Backtesting](https://github.com/spf13/cobra)
-
 
 ## Can I join your team as developer?
 
