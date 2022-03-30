@@ -6,10 +6,10 @@ All trade suggestions are posted under the following category. They are split by
 
 ![image](https://raw.githubusercontent.com/wiki/porqueoutai/argon/images/DiscordChannel.png)
 
-Example buy notification
+Example buy notification:
 
 ![image](https://raw.githubusercontent.com/wiki/porqueoutai/argon/images/DiscordBuy.png)
 
-Example sell notification
+Example sell notification:
 
 ![image](https://raw.githubusercontent.com/wiki/porqueoutai/argon/images/DiscordSell.png)
