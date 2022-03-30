@@ -11,8 +11,8 @@
 
 There are two ways for you to suggest a strategy:
 
-- Create a [GitHub issue](https://github.com/porqueoutai/crypto-tradingbot/issues) with a detailed explanation of your strategy
-- Join the [Discord server](README.md) and discuss your strategy there
+- Create a [GitHub issue](https://github.com/porqueoutai/argon/issues) with a detailed explanation of your strategy
+- Join the [Discord server](https://discord.gg/kneWnuAsQv) and discuss your strategy there
 
 ## Why should I share my trading strategy?
 

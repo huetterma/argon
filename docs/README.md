@@ -1,8 +1,8 @@
-# Planet Laser Crypto Tradingbot
+# Argon - crypto trading bot
 
-Welcome to Planet Laser where traders and coders work together to create a crypto tradingbot everybody can benefit from for free.
+Welcome to Argon where traders and developers work together to create a crypto trading bot everybody can benefit from for free.
 
-The community develops new trading strategies, refer to existing trading strategies or simply share their ideas which may be implemented into the tradingbot.
+The community develops new trading strategies, refer to existing trading strategies or simply share their ideas which may be implemented into the trading bot.
 
 Make sure to spread the word about this project - a large community mostly have various ideas how to profit from trading.
 
@@ -31,7 +31,3 @@ It is completly up to you if you follow the trade suggestions of the bot. Not fi
 [Discord](https://discord.gg/kneWnuAsQv) is the place to go if you want to join the community or make contact to the owner/developers.
 
 Make sure you are following us on [Twitter](https://twitter.com/CallPlanetLaser).
-
-## Frequently Asked Questions
-
-Make sure you check out the [FAQs](FAQ.md).

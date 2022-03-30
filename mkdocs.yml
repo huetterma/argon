@@ -1,0 +1,22 @@
+site_name: Argon - crypto trading bot built by the community
+site_author: porqueoutai
+site_description: Crypto trading bot posting trade signals for free
+docs_dir: docs
+site_dir: build/docs
+repo_url: https://github.com/porqueoutai/argon
+repo_name: GitHub
+
+theme:
+  name: readthedocs
+  highlightjs: true
+
+markdown_extensions:
+  - toc:
+      toc_depth: 2
+
+nav:
+  - README.md
+  - FAQ.md
+  - Strategies:
+      - strategies/Overview.md
+      - strategies/MomentumTrend.md
