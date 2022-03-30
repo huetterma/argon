@@ -8,5 +8,5 @@ See "Schedule" under each strategy to get a overview which cryptocurrency and ca
 
 Trading strategies:
 
-* [MomentumTrend](MomentumTrend.md) by developeers
+* [MomentumTrend](MomentumTrend.md) by developers
 * your strategy by your name + social-link

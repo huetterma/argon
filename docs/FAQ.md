@@ -2,9 +2,9 @@
 
 - [How do I suggest a trading strategy for implementation into the bot?](#how-do-i-suggest-a-trading-strategy-for-implementation-into-the-bot)
 - [Why should I share my trading strategy?](#why-should-i-share-my-trading-strategy)
-- [Where is the code of the tradingbot?](#where-is-the-code-of-the-tradingbot)
+- [Where is the code of the trading bot?](#where-is-the-code-of-the-trading-bot)
 - [Which coding language do you use?](#which-coding-language-do-you-use)
-- [Do you use any open source code for the tradingbot?](#do-you-use-any-open-source-code-for-the-tradingbot)
+- [Do you use any open source code for the trading bot?](#do-you-use-any-open-source-code-for-the-trading-bot)
 - [Can I join your team as developer](#can-i-join-your-team-as-developer)
 
 ## How do I suggest a trading strategy for implementation into the bot?
@@ -25,7 +25,7 @@ Benefits:
 - Discussing your strategy and educating others about trading does improve your trading skills aswell
 - The bot can backtest your strategy as you need it (customizing) and give you feedback about historical trading performance
 
-## Where is the code of the tradingbot?
+## Where is the code of the trading bot?
 
 The code resides in a private repository where only trusted developers have access to.
 
@@ -33,7 +33,7 @@ The code resides in a private repository where only trusted developers have acce
 
 The bot is completly written in [Go](https://go.dev).
 
-## Do you use any open source code for the tradingbot?
+## Do you use any open source code for the trading bot?
 
 List of non standard libaries we are using:
 
