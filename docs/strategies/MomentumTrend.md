@@ -28,7 +28,7 @@ MACD Histogram confirmed by value increasing
 
 List of cryptocurrency pair and candle resolution combinations scheduled for technical analysis by the bot for this trading strategy:
 
-```yaml
+```
 - pair: BNBUSDT
   resolution: 1h
 

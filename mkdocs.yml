@@ -17,6 +17,7 @@ markdown_extensions:
 nav:
   - README.md
   - FAQ.md
+  - Community.md
   - Channels:
     - channels/Index.md
     - channels/Discord.md

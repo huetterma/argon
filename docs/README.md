@@ -10,24 +10,8 @@ Make sure to spread the word about this project.
 
 The bot is an intelligent signal service based on technical analysis. Rather than doing the trading for you the bot notifies you via different channels about potential trading opportunities. This includes sell, buy and close events for various cryptocurrencies.
 
+Check out [notification channels](channels/Index.md)
+
 It is completly up to you if you follow the trade suggestions of the bot. Not financial advice.
 
-## Notification channels
-
-* Discord - [Invite link](https://discord.gg/kneWnuAsQv)
-* Telegram - [Invite link](https://t.me/+EV4FF-be6uJkYWFi)
-
-## Trading
-
-[Overview](strategies/Index.md) of crypocurrency pair, candle resolution and trading strategy combinations actively monitored by the trading bot.
-
-### Technical analysis trading strategies
-
-- [MomentumTrend](strategies/MomentumTrend.md)
-- More to come
-
-## Community & Contact
-
-[Discord](https://discord.gg/kneWnuAsQv) is the place to go if you want to join the community or make contact to the owner/developers.
-
-Make sure you are following us on [Twitter](https://twitter.com/CallPlanetLaser).
+These [trading strategies](strategies/Index.md) are currently analysed by the trading bot.
