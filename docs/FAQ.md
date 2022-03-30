@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+# FAQs
 
 - [How do I suggest a trading strategy for implementation into the bot?](#how-do-i-suggest-a-trading-strategy-for-implementation-into-the-bot)
 - [Why should I share my trading strategy?](#why-should-i-share-my-trading-strategy)

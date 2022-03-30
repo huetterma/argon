@@ -1,4 +1,4 @@
-# About MomentumTrend
+# MomentumTrend
 
 Technical analysis based on BollingerBands (BB), Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD)
 
@@ -22,4 +22,37 @@ Buy event:
 BollingerBand was under lower band and now higher than previous value
 RSI was under lower threshold and now higher than previous value
 MACD Histogram confirmed by value increasing
+```
+
+## Schedule
+
+List of cryptocurrency pair and candle resolution combinations scheduled for technical analysis by the bot for this trading strategy:
+
+```yaml
+- pair: BNBUSDT
+  resolution: 1h
+
+- pair: ETHUSDT
+  resolution: 1h
+
+- pair: ADAUSDT
+  resolution: 1h
+
+- pair: XRPUSDT
+  resolution: 1h
+
+- pair: SOLUSDT
+  resolution: 15m
+
+- pair: DOTUSDT
+  resolution: 1h
+
+- pair: LTCUSDT
+  resolution: 1h
+
+- pair: MATICUSDT
+  resolution: 1h
+
+- pair: TRXUSDT
+  resolution: 1h
 ```

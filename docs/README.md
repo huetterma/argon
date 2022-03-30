@@ -1,10 +1,10 @@
-# Argon - crypto trading bot
+# Welcome to Argon
 
-Welcome to Argon where traders and developers work together to create a crypto trading bot everybody can benefit from for free.
+Argon's goal is to build a community where traders and developers work together to create a crypto trading bot everybody can benefit from for free.
 
 The community develops new trading strategies, refer to existing trading strategies or simply share their ideas which may be implemented into the trading bot.
 
-Make sure to spread the word about this project - a large community mostly have various ideas how to profit from trading.
+Make sure to spread the word about this project.
 
 ## How it works
 
@@ -12,7 +12,7 @@ The bot is an intelligent signal service based on technical analysis. Rather tha
 
 It is completly up to you if you follow the trade suggestions of the bot. Not financial advice.
 
-## Supported notification channels
+## Notification channels
 
 * Discord - [Invite link](https://discord.gg/kneWnuAsQv)
 * Telegram - [Invite link](https://t.me/+EV4FF-be6uJkYWFi)

@@ -17,6 +17,10 @@ markdown_extensions:
 nav:
   - README.md
   - FAQ.md
+  - Channels:
+    - channels/Index.md
+    - channels/Discord.md
+    - channels/Telegram.md
   - Strategies:
-      - strategies/Overview.md
-      - strategies/MomentumTrend.md
+    - strategies/Index.md
+    - strategies/MomentumTrend.md
