@@ -19,7 +19,7 @@ It is completly up to you if you follow the trade suggestions of the bot. Not fi
 
 ## Trading
 
-[Overview](strategies/README.md) of crypocurrency pair, candle resolution and trading strategy combinations actively monitored by the trading bot.
+[Overview](strategies/Index.md) of crypocurrency pair, candle resolution and trading strategy combinations actively monitored by the trading bot.
 
 ### Technical analysis trading strategies
 
