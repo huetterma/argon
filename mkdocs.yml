@@ -25,3 +25,4 @@ nav:
   - Strategies:
     - strategies/Index.md
     - strategies/MomentumTrend.md
+    - strategies/VolatilityBand.md

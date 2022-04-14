@@ -9,4 +9,5 @@ See "Schedule" under each strategy to get a overview which combination of crypto
 Trading strategies:
 
 * [MomentumTrend](MomentumTrend.md) by developers
+* [VolatilityBand](VolatilityBand.md) by [VinayKumarKV](https://www.tradingview.com/u/VinayKumarKV/)
 * your strategy by your name + social-link
