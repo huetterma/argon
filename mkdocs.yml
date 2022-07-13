@@ -24,5 +24,4 @@ nav:
     - channels/Telegram.md
   - Strategies:
     - strategies/Index.md
-    - strategies/MomentumTrend.md
     - strategies/VolatilityBand.md
